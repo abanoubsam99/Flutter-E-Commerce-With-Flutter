@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070582020670",
+    "firebase_url": "https://treva-shop.firebaseio.com",
+    "project_id": "treva-shop",
+    "storage_bucket": "treva-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070582020670:android:dd26bdb0d2c9f16142ef6f",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070582020670-cg5en6s36m9b5lerjjvtqd23k023nt9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLx6rQAritFMlmu7B7cpciFz-ot-w7Cx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070582020670-cg5en6s36m9b5lerjjvtqd23k023nt9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
